@@ -1,0 +1,5 @@
+.vscode
+*.o
+iotograph
+sineTest
+ldc
